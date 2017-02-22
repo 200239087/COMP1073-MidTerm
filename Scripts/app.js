@@ -6,7 +6,7 @@ console.log("App Started...")
 
 // app.js
 // Ryan Quigley
-// 200239087
+// 200239087 
 // http://gc200239087.computerstudi.es/comp-1073/midterm/index.html
 // JavaScript File
 
