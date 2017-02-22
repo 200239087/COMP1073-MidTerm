@@ -15,7 +15,7 @@ console.log("App Started...")
 // Selects an element by the ID in the HTML to create an object
 let IntroParagraph = document.getElementById("IntroParagraph");
 
-// Content to be injected into the HTML
+// Content to be injected into the HTML 
 let IntroContent = `Now is the time to travel to Greece. The country may be going through an economic crisis, 
 but many travellers say that it hasn't impacted the experience of visiting. Plus, there may be some great deals.
 Greece has 1,400 islands, though only 230 of them are inhabited. 
@@ -105,7 +105,7 @@ let SendButton = document.getElementById("button");
 
 // On click of the submit button..
 SendButton.addEventListener("click", function(event){
-// Preveents the page from using the default process
+// Preveents the page from using the default process 
     event.preventDefault();
 
 // Writes the value of the different input fields to the Console
