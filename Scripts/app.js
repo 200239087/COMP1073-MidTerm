@@ -103,7 +103,7 @@ let Email = document.getElementById("email");
 let Comments = document.getElementById("comments");
 let SendButton = document.getElementById("button");
 
-// On click of the submit button..
+// On click of the submit button...
 SendButton.addEventListener("click", function(event){
 // Preveents the page from using the default process 
     event.preventDefault();
